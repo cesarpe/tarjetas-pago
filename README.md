@@ -114,4 +114,4 @@ stone:
 
 ---
 
-Programa creado en Svelte, tailwind y date-fns (pare el manejo de las fechas).
+> Programa creado en Svelte kit, Tailwind Css y date-fns (pare el manejo de las fechas).
